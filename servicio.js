@@ -1,11 +1,11 @@
 //PASOS PARA CONSUMIR UN API CON JS PURO
 
 //DECLARO LA URI
-const URI ="https://api.spotify.com/v1/artists/64KEffDW9EtZ1y2vBYgq8T/top-tracks?market=US"
+const URI ="https://api.spotify.com/v1/artists/1i8SpTcr7yvPOmcqrbnVXY/top-tracks?market=US"
 
 //2. DECLARA LOS PARAMETROS DE LA PETICION (QUE VOY HACER?)
 
-const TOKEN="Bearer BQAx6Pqf38e5EdYZsO9rd1uPaqdEyV3znmbj4dIm6ol2HJPzl9917Gmp586BHFY5x9GJs8-Tjh4RZzi8gDyROUmMkX4Jv5t9UwxnRFYtnwhSEmdUEqRaAMhIiyydWmfMPxBLSxWGkq4-fQSg34RmO6MAmgHs6agJsrQ"
+const TOKEN="Bearer BQAYvP1Xu8eKxGug8FbqP9MvoR3FzAENzX6nmUE-VJAxi-t8-itpZPDdnzB3lpjyssL88Jt7g5qGFfzAyNB5K5dgz1wejyBzmmHYKilf4aVazpWEIicqm0taLuoFFuYY9Cd2uhgFv3Vc64I51_7GpZSdbf0_YA1jBY0"
 
 const PETICION={
     method:"GET",
